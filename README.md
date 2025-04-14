@@ -1,2 +1,1 @@
-# Nyashwears
-le, stylish, and responsive wction — a fashion brand selling shoes and clothes. Built with HTML and CSS.  README content (optional):  # Nyashwears Collection Website  This is the official website for Nyashwears Collection — your go-to shop for trendy shoes and stylish clothes
+This is the primary codebase for the Nyashwears Collection website. It contains the full HTML and CSS files used to build a multi-page fashion store showcasing shoes and clothes. All updates, styling, and content changes will be committed here.
